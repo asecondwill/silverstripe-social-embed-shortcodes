@@ -16,7 +16,7 @@
     "silverstripe/framework": "~3.5"
   },
   "extra": {
-    "installer-name": "mailchimp-subscription-field",
+    "installer-name": "silverstripe-social-embed-shortcodes",
     "screenshots": [
     ]
   }
