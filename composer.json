@@ -1,0 +1,23 @@
+{
+  "name": "asecondwill/silverstripe-social-embed-shortcodes",
+  "description": "Shortcodes to show your social integration.",
+  "type": "silverstripe-module",
+  "homepage": "http://github.com/asecondwill/silverstripe-social-embed-shortcodes",
+  "keywords": ["silverstripe", "facebook", "twitter", "marketing"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {"name": "Will Barker","email": "will@kindleman.com.au"}
+  ],
+  "support": {
+    "issues": "http://github.com/asecondwill/silverstripe-social-embed-shortcodes/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.5",
+    "silverstripe/framework": "~3.5"
+  },
+  "extra": {
+    "installer-name": "mailchimp-subscription-field",
+    "screenshots": [
+    ]
+  }
+}
