@@ -2,8 +2,8 @@
 
 ## Facebook Wall
 eg
-```` [facebook Handle="humanitarianinstitute" Name="Humanitarian Institute"]````
+```` [facebook Handle="Kindleman" Name="Kindleman"]````
 
 ## Twiiter Feed
 eg
-```` [twitter Handle="HumInst" Height="600"] ````
+```` [twitter Handle="Kindleman_UK" Height="600"] ````
